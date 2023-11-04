@@ -50,7 +50,7 @@ To create a user account, users begin by filling out a user registration form. T
 
 **Client-Side Validation**: Client-side validation is implemented to ensure that user inputs are accurate, follow formatting rules, and are free from errors. This step helps prevent unnecessary database requests for invalid data.
 
-### 2.Server-Side Processing:
+### 2. Server-Side Processing:
 
 Upon form submission, the client sends a request to the server to create a new user account. This request includes the user's input data (username and password).
 
