@@ -16,7 +16,7 @@ Data Communication: Easily communicate with the FastAPI REST API on the server, 
 
 Usage Examples
 
-To help you get started with the Java library, we've included detailed usage examples in the provided folder. These examples will guide you through the process of integrating the library into your Java applications, making it easier than ever to interact with the Stock Market Simulator Server.
+To help you get started with the Java library, we've included detailed usage examples in the provided folder.
 
 ## Key Components
 
