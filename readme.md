@@ -56,9 +56,9 @@ Upon form submission, the client sends a request to the server to create a new u
 
 **Server-Side Validation:**: The server performs server-side validation to further verify the data's integrity. It checks for data consistency, validates the email format, and ensures that the username is unique.
 
-**Database Interaction:** The server interacts with the database to create a new user record. The database assigns a unique identifier to the new user account.
+**Database Interaction:** The server interacts with the database to create a new user record given the username and password.
 
-**Data Persistence:** The user account data is now persistently stored in the database. This includes the user's unique ID, username and password.
+**Data Persistence:** The user account data is now persistently stored in the database. This includes the user's username and password.
 
 This user account creation process ensures data integrity, security, and an excellent user experience within the Stock Market Simulator Server Manager.
 
