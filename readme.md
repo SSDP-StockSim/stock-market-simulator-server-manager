@@ -8,11 +8,11 @@ A Java library that simplifies the process of discovering, connecting to, and in
 
 Features of the Java Library:
 
-Server Discovery: Discover available servers on the network effortlessly using SSDP (Simple Service Discovery Protocol).
+Server Discovery: Discover available servers on the network using SSDP (Simple Service Discovery Protocol).
 
-Connection Management: Establish and manage connections to the server, ensuring a reliable and efficient user experience.
+Connection Management: Establish and manage connections to the server
 
-Data Communication: Easily communicate with the FastAPI REST API on the server, enabling you to retrieve user information, stock data, and more.
+Data Communication: communicate with the FastAPI REST API on the server, enabling you to retrieve user information, stock data, and more.
 
 Usage Examples
 
