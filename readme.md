@@ -24,7 +24,7 @@ The Stock Market Simulator Server Manager comprises three main components, each 
 
 High-level diagram of server components:
 
-**![](https://lh7-us.googleusercontent.com/j6RLbcpNQhFSFYIiBEGyx3lIhO6UubW9TYw0lIjivw9WW_QmPFBgM1p37ALpZXsGe5ysGsqPYreaSaN9-04LdHD08Lir8nAsRxqXyjuy4BYG6CqFDXNcyfbqfmB7XXhHK4MjPaiphTGLJk1zR1Yf-1E)**
+![](https://github.com/Stock-market-simulator-rsodhi-hbenipal/stock-market-simulator-server-manager/assets/42954808/bd720e94-a113-4324-8880-b0793b04834c)
 
 ### 1. SSDP Server (Simple Service Discovery Protocol)
 
